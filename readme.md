@@ -131,7 +131,7 @@ https://www.figma.com/design/7z14pYV6xkzfNAIjuBsL3l/lz-wu-s-team-library?node-id
 
 ![image-20251001112831744](files/image-20251001112831744.png)
 
-![image-20251001113022678](files/image-20251001113022678.png![image-20251001113101572](files/image-20251001113101572.png)
+![image-20251001113101572](files/image-20251001113101572.png)
 
 ![image-20251001111620105](files/image-20251001111620105.png)
 
