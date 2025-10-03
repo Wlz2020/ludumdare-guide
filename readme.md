@@ -149,6 +149,28 @@ https://ldjam.com/events/ludum-dare/57/mousehold%E3%80%82
 
 
 
+## 5.程序协作
+
+Unity 启动器（Unity Hub）
+👉 相当于“游戏启动器”，用来装和管理不同版本的 Unity编辑器。
+📥 下载地址： https://unity.com/download
+
+Unity 编辑器（Unity Editor）
+👉 真正用来做游戏的地方（画场景、调试、打包全在这里）。
+📥 下载地址： https://unity.com/releases/editor/whats-new/2021.3.45f1
+
+IDE（写 C# 脚本用的工具）
+👉 就是“写代码的笔记本”，随便挑一个顺手的：
+
+Rider（推荐，专门给 Unity 做的）
+Visual Studio Code（轻量级，简单好上手）
+Visual Studio（功能全，稍微重一点）
+Cursor / Trae（带 AI 帮手的新工具）
+
+
+
+
+
 
 
 
